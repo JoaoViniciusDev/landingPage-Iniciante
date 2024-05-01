@@ -1,0 +1,20 @@
+.container{
+    margin: 10;
+    padding: 55;
+    text-justify:auto;
+    
+
+}
+.logo{
+    background-image: url(../../fig/logo-semi-joias-semi-joias.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    min-height: 100vh;
+    background-position: center;
+}
+.cor-pastel{
+    background-color: lightgray;
+}
+.cor-final{
+    background-color: coral;
+}
